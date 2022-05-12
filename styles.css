@@ -1,0 +1,33 @@
+
+.Box1 {
+                background-color: red;
+                width: 100px;
+                height: 100px;
+                padding: 75px;
+                display: inline-block;
+                border: 2px solid black;
+                }
+  .Box2 {
+    background-color: yellow;
+    width: 100px;
+      height: 100px;
+      padding: 75px;
+      display: inline-block;
+      border: solid;
+  }
+  .Box3 {
+    background-color: green;
+    width: 100px;
+      height: 100px;
+      padding: 75px;
+      display: inline-block;
+      border: 1px solid black;
+  }
+  .Box4 {
+    background-color: purple;
+    width: 100px;
+      height: 100px;
+      padding: 75px;
+      display: inline-block;
+      border: 1px solid black;
+  }
